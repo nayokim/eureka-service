@@ -26,11 +26,11 @@ public class UserDetails {
         this.id=id;
     }
 
-    public String getName(String name){
+    public String getName(){
         return this.name;
     }
 
-    public void setName(){
+    public void setName(String name){
         this.name=name;
     }
 
